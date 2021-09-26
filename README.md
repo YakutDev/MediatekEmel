@@ -1,0 +1,2 @@
+# MediatekEmel
+Hp lu mediatek
